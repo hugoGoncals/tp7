@@ -1,0 +1,13 @@
+Receber e armazenar ficheiro
+	
+Servidor responde a varios pedidos
+
+Get    /  ====> Formulario
+POST   /processaForm   =========> 1- Guarda Ficheiro
+				  2- Acrescentar uma entrada no catálogo que está em json
+				  3- Responder
+
+GET	/ficheiros     ========> Página web com catálogo em link
+
+
+Desafio: Colocar tudo numa unica pagina
